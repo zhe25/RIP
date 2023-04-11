@@ -1,1 +1,2 @@
-# RIP
+# COSC364_RIP
+
